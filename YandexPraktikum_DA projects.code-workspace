@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"powerquery.client.additionalSymbolsDirectories": [
+			"c:/Users/k.storozhuk/efko-projects/Career-Development/03_Projects/Educational_Projects/YandexPraktikum_DA projects/.vscode/excel-pq-symbols"
+		]
+	}
+}
